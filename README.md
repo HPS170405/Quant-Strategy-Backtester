@@ -1,5 +1,7 @@
 # 📈 Quantitative Trading Strategy Backtester
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quant-strategy-backtester-hps.streamlit.app/)
+
 A professional-grade, high-performance quantitative trading backtesting framework and interactive Streamlit dashboard. Build, test, and analyze momentum, moving-average crossover, and mean-reversion strategies on historical market data with transaction costs, slippage, position sizing, and risk controls.
 
 ---
